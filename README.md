@@ -1,16 +1,28 @@
-## Hi there 👋
+# Introducing myself 👋
 
-<!--
-**arnavakula/arnavakula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Arnav! Computer Science & Statistics student with expertise in AI/ML and full-stack development.
 
-Here are some ideas to get you started:
+# Current focuses 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I'm focusing on leveraging **generative AI** and **computer vision** to solve real-world problems in the field of healthcare.
+
+# Projects 💻
+
+Check out my [portfolio](https://arnavakula.github.io/portfolio/#/) for all my projects!
+
+# Tools 🛠️
+
+* Languages: Python, Java, C++, C, HTML, CSS, Javascript, R, MATLAB
+* Data Science: Numpy, Pandas, Matplotlib, Seaborn, NLTK
+* Machine Learning: Scikit-learn, Tensorflow, Keras, PyTorch
+* Computer Vision: OpenCV, Mediapipe
+* Generative AI: OpenAI API, LangChain, LangSmith, HuggingFace Transformers
+* Web Dev: React, Express, Node, FastAPI, Flask
+* Databases: MongoDB, MySQL, PostgreSQL
+* Cloud: AWS, GCP
+* General: Git/Github, Notion, Figma
+
+# Connect with me 🤝
+
+Check out my [LinkedIn](https://www.linkedin.com/in/arnavakula/)!
+

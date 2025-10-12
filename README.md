@@ -6,10 +6,6 @@ Hello, I'm Arnav! Computer Science & Statistics student with expertise in AI/ML 
 
 Right now, I'm focusing on leveraging **generative AI** and **computer vision** to solve real-world problems in the field of healthcare.
 
-# Projects 💻
-
-Check out my [portfolio](https://arnavakula.github.io/portfolio/#/) for all my projects!
-
 # Tools 🛠️
 
 * Languages: Python, Java, C++, C, HTML, CSS, Javascript, R, MATLAB
